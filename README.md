@@ -1,10 +1,39 @@
-<nav>
-  <ul>
-    <li><a href="README.md">Home</a></li>
-    <li><a href="Research Papers-Preprints.md">Research Papers/Preprints</a></li>
-    <li><a href="Talks.md">Talks and Conferences</a></li>
+<nav class="navbar">
+  <ul class="nav-list">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="services.html">Services</a></li>
+    <li><a href="contact.html">Contact</a></li>
   </ul>
 </nav>
+
+/* Add this to your CSS file or inside <style> tags */
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.nav-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-list li {
+  float: left;
+}
+
+.nav-list li a {
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.nav-list li a:hover {
+  background-color: #575757;
+}
 
 # Rafail Psyroukis 
 
