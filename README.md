@@ -1,5 +1,5 @@
 <div style='text-align: right;'>
-    <a href="README.md">Home</a>
+    <a href="https://chr34cpp.github.io">Home</a>
 </div>
 
 <div style='text-align: right;'>
