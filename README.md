@@ -1,9 +1,15 @@
 <div style='text-align: right;'>
-  [Home](Readme.md)
+    <a href="README.md">Home</a>
 </div>
+
 <div style='text-align: right;'>
-  [Research Papers/Preprints](Research Papers-Preprints.md)
+  <a href="Research Papers-Preprints.md">Research Papers/Preprints</a>
 </div>
+
+<div style='text-align: right;'>
+  <a href="Talks.md">Talks and Conferences</a>
+</div>
+
 
 # Rafail Psyroukis 
 
