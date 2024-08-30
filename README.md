@@ -1,4 +1,4 @@
-<div> # Rafail Psyroukis</div>
+<div> Rafail Psyroukis</div>
 
 My name is Rafail Psyroukis and I am a PhD student at Durham University in the UK. My supervisor is Prof. Thanasis Bouganis.
 
