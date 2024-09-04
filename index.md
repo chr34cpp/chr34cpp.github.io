@@ -1,7 +1,10 @@
 # Home
 
-[Home](./index.md) | [Research Papers/Preprints](./Papers.md) | [Talks and conferences](./Talks.md)
-
+<div style="text-align: left;">
+  <a href="./index.md">Home</a> | 
+  <a href="./Papers.md">Research Papers/Preprints</a> | 
+  <a href="./Talks.md">Talks and Conferences</a>
+</div>
 ---
 
 My name is Rafail Psyroukis and I am a PhD student at Durham University in the UK. My supervisor is Prof. Thanasis Bouganis.
