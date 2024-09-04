@@ -1,5 +1,9 @@
 # Communication
 
+[Home](./index.md) | [About](./about.md) | [Communication](./communication.md)
+
+---
+
 Get in touch with me through the following channels:
 
 - **Email**: [yourname@example.com](mailto:yourname@example.com)
