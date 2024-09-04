@@ -3,6 +3,6 @@
 [Home](./index.md) | [Research Papers/Preprints](./Papers.md) | [Talks and conferences](./Talks.md)
 ---
 
-Welcome to the About section.
+-A Fourier - Jacobi Dirichlet series for cusp forms on orthogonal groups - [arXiv]
 
-Here, you can include information about yourself, your projects, and your interests.
+-On a Rankin - Selberg integral of three Hermitian cusp forms, joint with Thanasis Bouganis, submitted - [arXiv]
