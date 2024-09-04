@@ -1,4 +1,4 @@
-[![About Me](https://img.shields.io/badge/About%20Me)](/About/)
+[![About Me](About%20Me)](/about/)
 
 
 
