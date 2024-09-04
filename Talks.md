@@ -1,7 +1,6 @@
-# Communication
+# Talks and Conferences
 
-[Home](./index.md) | [About](./about.md) | [Communication](./communication.md)
-
+[Home](./index.md) | [Research Papers/Preprints](./Papers.md) | [Talks and conferences](./Talks.md)
 ---
 
 Get in touch with me through the following channels:
