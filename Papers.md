@@ -1,7 +1,6 @@
-# About
+# Research Papers/Preprints
 
-[Home](./index.md) | [About](./about.md) | [Communication](./communication.md)
-
+[Home](./index.md) | [Research Papers/Preprints](./Papers.md) | [Talks and conferences](./Talks.md)
 ---
 
 Welcome to the About section.
