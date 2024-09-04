@@ -1,0 +1,7 @@
+title: Rafail Psyroukis
+description: A short description of your site.
+
+# Define the pages to include in the header navigation
+header_pages:
+  - README.md
+  - ABOUT.md
