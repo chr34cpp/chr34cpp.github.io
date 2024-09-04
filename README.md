@@ -1,14 +1,4 @@
-<div style='text-align: right;'>
-    <a href="https://chr34cpp.github.io">Home</a>
-</div>
 
-<div style='text-align: right;'>
-  [Research Papers/Preprints](Research Papers-Preprints.md)
-</div>
-
-<div style='text-align: right;'>
-  <a href="Talks.md">Talks and Conferences</a>
-</div>
 
 
 # Rafail Psyroukis 
