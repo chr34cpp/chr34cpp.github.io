@@ -1,0 +1,11 @@
+title: Your GitHub Page
+theme: jekyll-theme-cayman
+
+# Navigation Links
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Communication"
+    url: "/communication"
