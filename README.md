@@ -1,4 +1,9 @@
-[![About Me](About%20Me)](/about/)
+<a href="/about/" style="text-decoration: none;">
+    <div style="display: inline-block; padding: 10px 20px; font-size: 18px; color: #fff; background-color: #007bff; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s ease;">
+        About Me
+    </div>
+</a>
+
 
 
 
