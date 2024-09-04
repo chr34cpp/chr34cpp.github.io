@@ -5,7 +5,7 @@ theme: jekyll-theme-cayman
 navbar:
   - title: "Home"
     url: "/"
-  - title: "About"
-    url: "/about"
-  - title: "Communication"
-    url: "/communication"
+  - title: "Research papers/Preprints"
+    url: "/Papers"
+  - title: "Talks and Conferences"
+    url: "/Talks"
